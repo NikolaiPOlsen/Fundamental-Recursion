@@ -1,0 +1,6 @@
+#ifndef FUNDAMENTAL_RECURSION_NATURALNUMBERS_H
+#define FUNDAMENTAL_RECURSION_NATURALNUMBERS_H
+
+void printNaturalNumbers(int n);
+
+#endif

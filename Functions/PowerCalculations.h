@@ -1,0 +1,6 @@
+#ifndef FUNDAMENTALRECUSION_POWERCALCULATIONS_H
+#define FUNDAMENTALRECUSION_POWERCALCULATIONS_H
+
+int power(int base, int exponent);
+
+#endif

@@ -1,0 +1,6 @@
+#ifndef FUNDAMENTALRECUSION_COUNTOCCURRENCES_H
+#define FUNDAMENTALRECUSION_COUNTOCCURRENCES_H
+
+int CountOccurrences(std::string s, char c);
+
+#endif
